@@ -1,0 +1,28 @@
+# Project Specific Exclusion
+*.*~
+*.*#
+*.orig
+*-gen.h
+
+# Eclipse project
+.cproject
+.project
+.buildpath
+bin/
+*.classpath
+*.settings
+*.externalToolBuilders
+
+# Java binary
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.eari
+
+# VIM temporary files
+*.swp
+
+# MAC OSX Files #
+*.DS_Store
